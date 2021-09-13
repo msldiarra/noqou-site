@@ -19,7 +19,7 @@ phases:
     commands:
       - rm -rf public
       - hugo
-      - aws s3 sync public/ s3://noqou-site/ --region us-east-2 --delete
+      - aws s3 sync public/ s3://www.noqou.com/ --region us-east-2 --delete
   post_build:
     commands:
       - echo Build completed on `date`
