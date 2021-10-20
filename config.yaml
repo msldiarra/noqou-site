@@ -16,7 +16,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
-  description:
+  description: gps, gps mali, localisation véhicule, localisation, véhicule volé, suivre chauffeurs, véhicules mali, chauffeurs mali, localisation mali, vol véhicule mali, moto, moto mali, moto volée mali, moto gps, moto gps mali
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/noqou.svg
